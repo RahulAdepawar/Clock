@@ -6,7 +6,7 @@ import Clock from '@/components/Clock'; // adjust path based on your folder stru
 
 export default function HomeScreen() {
 	return (
-		<LinearGradient colors={['#6a11cb', '#2575fc']} style={styles.gradient}>
+		<LinearGradient colors={['#1d1624ff', '#0b0b0cff']} style={styles.gradient}>
 			<Clock />
 		</LinearGradient>
 	);

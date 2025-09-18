@@ -1,0 +1,14 @@
+1.Location-Based Reminders with Voice
+	📍 Remind tasks when the user is near a location.
+	🔊 Example: “You’ve reached the gym. Don’t forget to stretch!”
+	🗣️ Combine with voice alerts for a personal assistant feel.
+
+2.Dynamic Time Dilation Clock
+	🕓 The app visualizes how long each hour will "feel" based on your schedule.
+	🌡️ For example, 1 hour during a workout feels longer than 1 hour watching Netflix — the UI represents this visually, maybe with animation.
+
+3.Mood-Based Alarm Sounds (AI Emotional Sync)
+	📱 Let the user choose their current mood (e.g., sad, happy, anxious).
+	🔊 The app selects a matching alarm tone (e.g., calming, energetic).
+	🎯 Use AI to adapt tones based on recent wake-up behavior (like snoozing too much = more aggressive alarm).
+
